@@ -1,2 +1,2 @@
 # Data-Science-Projects
-Data Science projects
+Data Science projects from various bootcamps and courses
